@@ -6,6 +6,7 @@
 * **GitHub:** [vasiaZH](https://github.com/vasiaZH)
 * **Telegram:** [VasilZilevich](https://t.me/VasilZilevich)
 * **Discord:** [Vasiliy(@VasiaZh)](https://discordapp.com/users/1047931493751718010)
+
 ---
 ## About Me 
 Belarusian National Technical University, faculty - automated electric drive.
@@ -23,11 +24,14 @@ I love running, climbing and hiking. Not conflict, constantly learning.
 * **Software testing**
 ---
 ## Code Example
+
 ```
+
 Pyhton
+ 
  The task was as follows: Write a function get_next_prime(num) that takes a natural number num as an argument and returns the first prime number greater than num.
  
-function declaration
+//function declaration
 
 def is_prime(num):
     if num == 1:
@@ -37,7 +41,7 @@ def is_prime(num):
             return False
     return True
 
- function declaration
+ //function declaration
 
 def get_next_prime(num):
     x = num + 1
@@ -48,7 +52,7 @@ def get_next_prime(num):
 
  read data
 
-n = int(input())
+ //n = int(input())
 
  call the function
  
