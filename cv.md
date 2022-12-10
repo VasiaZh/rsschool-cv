@@ -5,7 +5,7 @@
 * **E-mail:** vasiazh@gmail.com
 * **GitHub:** [vasiaZH](https://github.com/vasiaZH)
 * **Telegram:** [VasilZilevich](https://t.me/VasilZilevich)
-* **Discord:** [Vasiliy(@VasiaZh)](https://discordapp.com/users/1047931493751718010)
+
 
 ---
 ## About Me 
