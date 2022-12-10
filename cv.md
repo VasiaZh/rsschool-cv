@@ -2,14 +2,12 @@
 # Vasiliy Zhilevich
 ---
 ## Contacts
-
 * **E-mail:** vasiazh@gmail.com
 * **GitHub:** [vasiaZH](https://github.com/vasiaZH)
 * **Telegram:** [VasilZilevich](https://t.me/VasilZilevich)
 * **Discord:** [Vasiliy(@VasiaZh)](https://discordapp.com/users/1047931493751718010)
 ---
-## About Me
-  
+## About Me 
 Belarusian National Technical University, faculty - automated electric drive.
   
 For a long time he worked in manufacturing companies as a development manager, including in sales. Worked as a software sales manager. I want to change my specialty because I like programming and I'm learning it.
@@ -17,7 +15,6 @@ For a long time he worked in manufacturing companies as a development manager, i
 I love running, climbing and hiking. Not conflict, constantly learning.
 
 ---
-
 ## Skills
 * **HTML, CSS**
 * **JavaScript** Basics
@@ -28,8 +25,9 @@ I love running, climbing and hiking. Not conflict, constantly learning.
 ## Code Example
 ```
 Pyhton
-# The task was as follows: Write a function get_next_prime(num) that takes a natural number num as an argument and returns the first prime number greater than num.
-# function declaration
+ The task was as follows: Write a function get_next_prime(num) that takes a natural number num as an argument and returns the first prime number greater than num.
+ 
+function declaration
 
 def is_prime(num):
     if num == 1:
@@ -39,7 +37,8 @@ def is_prime(num):
             return False
     return True
 
-# function declaration
+ function declaration
+
 def get_next_prime(num):
     x = num + 1
     while is_prime(x) == False:
@@ -47,34 +46,29 @@ def get_next_prime(num):
     return x
 
 
-# read data
+ read data
+
 n = int(input())
 
-# call the function
+ call the function
+ 
 print(get_next_prime(n))
 
 ```
 ---
-
-
 ## Experience
  Only educational projects and independently.
  * **[Stepick](https://stepik.org)**
  * **[Udemy](https://www.udemy.com)**
 
  ---
-  
-
 ## Education
 * **Belarusian National Technical University, faculty - automated electric drive.**
-
 * **Stepick**
 [link to certificate](https://drive.google.com/file/d/1MEvs2lj3tICcFgV6LxYWFKGoZbAL-bFs/view?usp=share_link)
 * **Udemy**
 [link to certificate](https://drive.google.com/file/d/1iT9sMy6fiTzbognwptiRd0BDMYbNrYYh/view?usp=share_link)
 ---
-
-
 ## Languages
 * **Russian** - native
 * **English** - B1
