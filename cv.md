@@ -11,52 +11,35 @@
 ## About Me 
 Belarusian National Technical University, faculty - automated electric drive.
   
-For a long time he worked in manufacturing companies as a development manager, including in sales. Worked as a software sales manager. I want to change my specialty because I like programming and I'm learning it.
+For a long time he worked in manufacturing companies as a development manager, including in sales. Worked as a software sales manager. 
+
+I want to change my specialty because I like programming and I'm learning it.
       
-I love running, climbing and hiking. Not conflict, constantly learning.
+I love running, climbing and hiking, collect vinyl records. Not conflict, like to learn new things.
 
 ---
 ## Skills
 * **HTML, CSS**
 * **JavaScript** Basics
 * **Git, GitHub**
-* **Python, MySQL**  
+* **Python**
+* **MySQL**
 * **Software testing**
 ---
 ## Code Example
 
 ```
 
-Pyhton
- 
- The task was as follows: Write a function get_next_prime(num) that takes a natural number num as an argument and returns the first prime number greater than num.
- 
-//function declaration
+s = []
+n = s.extend(input())
+del s[0]
+s = int(''.join(s))
+for i in range (s):
+    k = input()
+    if '#' in k:
+        k = k[0:k.index('#')]
+    print(k.rstrip()) 
 
-def is_prime(num):
-    if num == 1:
-        return False
-    for i in range(2, num):
-        if num % i == 0:
-            return False
-    return True
-
- //function declaration
-
-def get_next_prime(num):
-    x = num + 1
-    while is_prime(x) == False:
-        x += 1
-    return x
-
-
- read data
-
- //n = int(input())
-
- call the function
- 
-print(get_next_prime(n))
 
 ```
 ---
