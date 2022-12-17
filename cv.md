@@ -17,13 +17,14 @@ I want to change my specialty because I like programming and I'm learning it.
       
 I love running, climbing and hiking, collect vinyl records. Not conflict, like to learn new things.
 
+
 ---
 ## Skills
 * **HTML, CSS**
 * **JavaScript** Basics
 * **Git, GitHub**
 * **Python**
-* **MySQL**
+* **MySQL** 
 * **Software testing**
 ---
 ## Code Example
@@ -43,10 +44,11 @@ for i in range (s):
 
 ```
 ---
-## Experience
+## Courses
  Only educational projects and independently.
  * **[Stepick](https://stepik.org)**
  * **[Udemy](https://www.udemy.com)**
+ * **[RSSchool( in progress)](https://rs.school/js/)**
 
  ---
 ## Education
