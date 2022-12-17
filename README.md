@@ -1,1 +1,1 @@
-# rsschool-cv
+https://VasiaZH.github.io/rsschool-cv/
