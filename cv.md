@@ -43,10 +43,11 @@ for i in range (s):
 
 ```
 ---
-## Experience
+## Courses
  Only educational projects and independently.
  * **[Stepick](https://stepik.org)**
  * **[Udemy](https://www.udemy.com)**
+ * **[RSSchool( in progress)](https://rs.school/js/)**
 
  ---
 ## Education
