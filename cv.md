@@ -15,7 +15,8 @@ For a long time he worked in manufacturing companies as a development manager, i
 
 I want to change my specialty because I like programming and I'm learning it.
       
-I love running, climbing and hiking,collect vinyl records. Not conflict, like to learn new things.
+I love running, climbing and hiking, collect vinyl records. Not conflict, like to learn new things.
+
 
 ---
 ## Skills
